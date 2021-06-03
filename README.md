@@ -96,7 +96,6 @@
 * [Firebase Storage](https://firebase.google.com/docs/storage)
 * [Google Cloud Platform Services](https://cloud.google.com/gcp)
 * [Kotlin Programming Language](https://kotlinlang.org/)
-* [MP Android Chart](https://github.com/PhilJay/MPAndroidChart)
 * [Roboflow](https://roboflow.com/)
 * [YOLO-V4 Model Based Architecture](https://github.com/AlexeyAB/darknet)
 
@@ -119,16 +118,11 @@
 ## Usage (WIP)
 <B>How to report a pothole</B>
 1. Login to your account
-2. Choose "Add Report" on the menu
-3. Fill the road type, and the location, you can also fill the note to inform about the pothole in detail
-4. After that choose select image to upload the pothole photo, you can use your camera or pick one from gallery. Be sure that the pothole is visible on the photo
-5. Now you can send the pothole report by tapping on the arrow on the bottom right
-6. The report then will be validated by the system
-7. you can see all the report you have made on the "My Report" menu
+2. 
 
-<B> How to Search the pothole location</B>
-1. Choose "Search" on the menu
-2. Enter the address you want to search for on the search bar
+<B> How to Search the </B>
+1. 
+2. 
 
 
 
