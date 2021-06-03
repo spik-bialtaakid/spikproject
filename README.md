@@ -107,9 +107,8 @@
 ### Prerequisites
 
 1. Android Oreo (SDK 26)
-2. Internet Connection
-3. GPS/Location
-
+2. 
+3. 
 ### Installation
 
 1. Download The APK
