@@ -167,12 +167,12 @@ Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for mo
 <!-- CONTACT -->
 ## Contact
 
-* Anugrah Akbar Praramadhan - [alifshelviano@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Ade Isman Aji - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Carmelita Evani Dasopang - [null](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Muhammad Dicky Amirudin - [dicky.king35@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Naufaldy Salsabila - [naufaldysalsabila@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-
+* Muhammad Alif Shelviano - [alifshelviano@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Muhammad Faishal Adiyatma - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Muhammad Ridho - [null](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Muhammad Irfan - [dicky.king35@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Zulfa - [naufaldysalsabila@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Dara Mulia - [naufaldysalsabila@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 Project Link: [https://github.com/anugrahakbarp/B21-CAP0388](https://github.com/anugrahakbarp/B21-CAP0388)
 
 
