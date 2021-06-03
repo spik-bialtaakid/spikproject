@@ -193,4 +193,4 @@ Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.co
 [issues-shield]: 
 [issues-url]: 
 [linkedin-shield]: 
-[linkedin-url]: 
+
