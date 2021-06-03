@@ -37,7 +37,7 @@
     <img src="https://user-images.githubusercontent.com/69615570/119249729-129a8500-bbc5-11eb-9e61-1cecd7084d03.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h2 align="center">Bangkit Capstone Project 2021: Validating Potholes Using Object Detection on Monitoring and Report System Application</h2>
+  <h2 align="center">Bangkit Capstone Project 2021: Real Time Sign Language using Object detection</h2>
 
   <p align="center">
     Documentation Available Here:
