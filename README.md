@@ -34,7 +34,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/anugrahakbarp/B21-CAP0388/">
-    <img src="https://user-images.githubusercontent.com/69615570/119249729-129a8500-bbc5-11eb-9e61-1cecd7084d03.png" alt="Logo" width="200" height="200">
+    <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/messageImage_1622700642592.jpg" alt="Logo" width="200" height="200">
   </a>
 
   <h2 align="center">Bangkit Capstone Project 2021: Real Time Sign Language using Object detection</h2>
