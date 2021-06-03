@@ -173,7 +173,8 @@ Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for mo
 * Muhammad Irfan - [dicky.king35@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Zulfa - [naufaldysalsabila@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Dara Mulia - [naufaldysalsabila@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-Project Link: [https://github.com/anugrahakbarp/B21-CAP0388](https://github.com/anugrahakbarp/B21-CAP0388)
+* 
+Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.com/anugrahakbarp/B21-CAP0388)
 
 
 
