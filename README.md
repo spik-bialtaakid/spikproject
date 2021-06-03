@@ -193,15 +193,12 @@ Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/anugrahakbarp/B21-CAP0388.svg?style=for-the-badge
-[contributors-url]: https://github.com/anugrahakbarp/B21-CAP0388/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/anugrahakbarp/B21-CAP0388.svg?style=for-the-badge
-[forks-url]: https://github.com/anugrahakbarp/B21-CAP0388/network/members
-[stars-shield]: https://img.shields.io/github/stars/anugrahakbarp/B21-CAP0388.svg?style=for-the-badge
-[stars-url]: https://github.com/anugrahakbarp/B21-CAP0388/stargazers
-[issues-shield]: https://img.shields.io/github/issues/anugrahakbarp/B21-CAP0388.svg?style=for-the-badge
-[issues-url]: https://github.com/anugrahakbarp/B21-CAP0388/issues
-[license-shield]: https://img.shields.io/github/license/anugrahakbarp/B21-CAP0388.svg?style=for-the-badge
-[license-url]: https://github.com/anugrahakbarp/B21-CAP0388/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/anugrahakbarp/
+[contributors-shield]: 
+[contributors-url]: 
+[forks-url]: 
+[stars-shield]: 
+[stars-url]: 
+[issues-shield]: 
+[issues-url]: 
+[linkedin-shield]: 
+[linkedin-url]: 
