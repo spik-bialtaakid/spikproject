@@ -33,7 +33,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/anugrahakbarp/B21-CAP0388/">
+  <a href="https://github.com//">
     <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/messageImage_1622700642592.jpg" alt="Logo" width="300" height="300">
   </a>
 
@@ -42,15 +42,15 @@
   <p align="center">
     Documentation Available Here:
     <br />
-    <a href="https://docs.google.com/document/d/1-W_qnjDcqY2GAJGV1wSwdfEx_0f4BUwIOsrZp9TgY0U/edit?usp=sharing"><strong>Explore the docs »</strong></a>
+    <a href="https://"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1bJIlXPU_RoohGWevgEt_p-BEMLe15mgd/view?usp=drivesdk">View Demo</a>
+    <a href="https://">View Demo</a>
     ·
-    <a href="https://github.com/anugrahakbarp/B21-CAP0388/issues">
+    <a href="https://github.com">
       Report Bug</a>
     ·
-    <a href="https://github.com/anugrahakbarp/B21-CAP0388/issues">Request Feature</a>
+    <a href="https://github.com/">Request Feature</a>
   </p>
 </p>
 
@@ -89,7 +89,7 @@
   <pre>
    <strong>     Splash Screen          </strong>      <strong>  Location/Maps Feature     </strong>      <strong>      Report Result</strong></pre>
 
-<img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="550">
+<img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https:/" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://" alt="Logo" width="270" height="550">
 
 
 
