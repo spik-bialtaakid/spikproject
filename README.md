@@ -96,7 +96,6 @@
 * [Firebase Storage](https://firebase.google.com/docs/storage)
 * [Google Cloud Platform Services](https://cloud.google.com/gcp)
 * [Kotlin Programming Language](https://kotlinlang.org/)
-* [Lottie Animation](https://lottiefiles.com/)
 * [MP Android Chart](https://github.com/PhilJay/MPAndroidChart)
 * [Roboflow](https://roboflow.com/)
 * [YOLO-V4 Model Based Architecture](https://github.com/AlexeyAB/darknet)
