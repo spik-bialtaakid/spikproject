@@ -34,7 +34,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/anugrahakbarp/B21-CAP0388/">
-    <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/messageImage_1622700642592.jpg" alt="Logo" width="80" height="100">
+    <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/messageImage_1622700642592.jpg" alt="Logo" width="300" height="300">
   </a>
 
   <h2 align="center">Bangkit Capstone Project 2021: Real Time Sign Language using Object detection</h2>
@@ -89,7 +89,7 @@
   <pre>
    <strong>     Splash Screen          </strong>      <strong>  Location/Maps Feature     </strong>      <strong>      Report Result</strong></pre>
 
-<img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="576.5">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="576.5">
+<img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268906-37bbe180-bc1f-11eb-8a67-a94e9bef21aa.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/69615570/119268914-3b4f6880-bc1f-11eb-8fd5-13f35a9ff090.jpg" alt="Logo" width="270" height="550">
 
 
 
