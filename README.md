@@ -31,7 +31,7 @@
     <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/spik_logo.png" alt="Logo" width="600" height="500">
   </a>
 
-  <h2 align="center">Bangkit Capstone Project 2021: Real Time Sign Language using Object detection</h2>
+  <h2 align="center">Bangkit Capstone Project 2021: Real Time Sign Language Recognition using Object detection</h2>
 
   <p align="center">
     Documentation Available Here:
