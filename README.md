@@ -81,7 +81,7 @@
 ## About The Project
 <p align="center">
   <pre>
-   <strong>     Splash Screen          </strong>      <strong>  Location/Maps Feature     </strong>      <strong>      Report Result</strong></pre>
+   <strong>     Splash Screen          </strong>      <strong>  Detection     </strong>      <strong>      Report Result</strong></pre>
 
 <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https:/" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://" alt="Logo" width="270" height="550">
 
@@ -116,9 +116,10 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage (WIP)
-<B>How to report a pothole</B>
+<B>How to use Spik</B>
 1. Login to your account
-2. 
+2. Select Button Detect
+3. Happy Detect
 
 <B> How to Search the </B>
 1. 
@@ -154,12 +155,12 @@ Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for mo
 ## Contact
 
 * Muhammad Alif Shelviano - [alifshelviano@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Muhammad Faishal Adiyatma - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Muhammad Faishal Adiyatma - [muh.mfa.adi@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Muhammad Ridho - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Muhammad Irfan - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Zulfa - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Dara Mulia - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* 
+
 Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.com/spik-bialtaakid/spikproject)
 
 
