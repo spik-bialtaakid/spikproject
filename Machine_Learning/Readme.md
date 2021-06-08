@@ -65,27 +65,10 @@
 
 <!-- installation -->
 
-### ana
+### Anaconda (Optional)
 
 Firstly you need to download anaconda from this [link](
 
-### Installation
-
-1. Download The APK
-2. Install The APK
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage (WIP)
-<B>How to use Spik</B>
-1. Login to your account
-2. Select Button Detect
-3. Happy Detect
-
-<B> How to Search the </B>
-1. 
-2. 
 
 
 
@@ -93,61 +76,4 @@ Firstly you need to download anaconda from this [link](
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-* Muhammad Alif Shelviano - [alifshelviano@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Muhammad Faishal Adiyatma - [muh.mfa.adi@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Muhammad Ridho - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Irfan Darmawan - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Zulfa - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Dara Mulia - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-
-Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.com/spik-bialtaakid/spikproject)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* _ALL LICENSE ARE FREE TO USE SOFTWARE._  
-
-* _CREDIT FOR THIS PROJECT ARE HAVING BY GEN-Z TEAM._  
-
-* _PLEASE REFERS TO THIS REPOSITORY FOR USAGE & PUBLICATION._  
-
-* _THERE IS NO WARRANTY IN THIS SOFTWARE._
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: 
-[contributors-url]: 
-[forks-url]: 
-[stars-shield]: 
-[stars-url]: 
-[issues-shield]: 
-[issues-url]: 
-[linkedin-shield]: 
 
