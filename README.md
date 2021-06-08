@@ -156,7 +156,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for mo
 
 * Muhammad Alif Shelviano - [alifshelviano@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Muhammad Faishal Adiyatma - [muh.mfa.adi@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Muhammad Ridho - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Muhammad Ridho - [5mblackburn7@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Irfan Darmawan - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Zulfa - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Dara Mulia - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
