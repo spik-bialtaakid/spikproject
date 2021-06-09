@@ -84,7 +84,7 @@
    <strong>     Splash Screen          </strong>      <strong>  Detection     </strong>      <strong>      Report Result</strong></pre>
 
 <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https:/" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://" alt="Logo" width="270" height="550">
-
+<img src="https://github.com/spik-bialtaakid/spikproject/blob/main/23985.jpg" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https:/" alt="Logo" width="270" height="550">&nbsp; &nbsp;<img src="https://" alt="Logo" width="270" height="550">
 
 
 <div style="text-align: justify">Meet Spik, Sign language that prioritizes nonverbal aspects will take a long time to learn if you use conventional learning methods such as reading books or looking at explanatory pictures only. A sign language application is needed to be able to help users learn and communicate sign language easily. Spik is  an android application to help people with hearing impairement to communicate with people who don't understand Sign language by detecting sign language and translate to text at the time. Spik also has a voice feature to help people with hearing impairement to communicate with people who have visual impairments by converting the detected text into sound. We make this app named "spik" because our goal is want to make those who have hearing and speech impairement can also communicate easily</div>
