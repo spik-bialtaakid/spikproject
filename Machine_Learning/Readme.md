@@ -175,6 +175,9 @@ select task above :
 3. equalize the sum of all images set
 4. delete alphabet folder an put all into root folder
 your selection :
-
 ```
+```
+
 So you just need to pass the root folder path, then there 4 things you can do. as mention above, consider to do the step above sequential not arbitrary
+
+Once its ready you can upload your dataset into roboflow and do the rest step by following this documentation
