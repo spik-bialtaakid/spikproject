@@ -105,8 +105,9 @@
 ### Prerequisites
 
 1. Android Oreo (SDK 26)
-2. 
-3. 
+2. Tensorflow 2.5.x
+3. Python 3.7 or up to
+4. GCP account
 ### Installation
 
 1. Download The APK
@@ -175,7 +176,7 @@ Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.co
 * _PLEASE REFERS TO THIS REPOSITORY FOR USAGE & PUBLICATION._  
 
 * _THERE IS NO WARRANTY IN THIS SOFTWARE._
-
+* _THE OBJECT DETECTION API REFER TO THIS [LINK](https://arxiv.org/abs/1611.10012)._
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
