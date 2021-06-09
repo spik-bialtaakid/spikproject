@@ -34,9 +34,9 @@
   <h2 align="center">Bangkit Capstone Project 2021: Real Time Sign Language Recognition using Object detection</h2>
 
   <p align="center">
-    Documentation Available Here:
+    Dataset Available Here:
     <br />
-    <a href="https://"><strong>Explore the docs »</strong></a>
+    <a href="https://www.kaggle.com/ridhomuhammad/sibi-language-object-detection"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://">View Demo</a>
@@ -87,7 +87,7 @@
 
 
 
-<div style="text-align: justify">Meet VISION, a comprehensive Reporting Android App for helping the validation process using object detection to provide safety, time efficiency, and quality delivers right at the fingertips of its users. The outline of this project is to create a comprehensive report from users to the government. Our application feature can validate pothole images from users sent to our cloud server using machine learning and the user's report contains location & images to see the details of the roads from other users. Also, we will provide the visualization for the reported case in potholes type, count, dates, and location.</div>
+<div style="text-align: justify">Meet Spik, Sign language that prioritizes nonverbal aspects will take a long time to learn if you use conventional learning methods such as reading books or looking at explanatory pictures only. A sign language application is needed to be able to help users learn and communicate sign language easily. Spik is  an android application to help people with hearing impairement to communicate with people who don't understand Sign language by detecting sign language and translate to text at the time. Spik also has a voice feature to help people with hearing impairement to communicate with people who have visual impairments by converting the detected text into sound. We make this app named "spik" because our goal is want to make those who have hearing and speech impairement can also communicate easily</div>
 
 ### Built With
 
