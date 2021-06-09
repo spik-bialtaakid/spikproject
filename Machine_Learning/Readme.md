@@ -165,17 +165,18 @@ In order to avoid any collusion or error please follow this step.
 
 ```sh
 (tensor-env) ..\Machine_Learning\scripts\ > python preprocessing.py
-
+```
+```sh
 (tensor-env) ..\Machine_Learning\scripts\ >
+```
+```
 root_path :
---------------------
 select task above :
 1. rename images name based on alphabet dir
 2. check the sum of images contain in each alphabet dir
 3. equalize the sum of all images set
 4. delete alphabet folder an put all into root folder
 your selection :
-```
 ```
 
 So you just need to pass the root folder path, then there 4 things you can do. as mention above, consider to do the step above sequential not arbitrary
