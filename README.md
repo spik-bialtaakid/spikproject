@@ -159,7 +159,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE VERSION 3. See `LICENSE` for mo
 * Muhammad Ridho - [5mblackburn7@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Irfan Darmawan - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Zulfa - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
-* Dara Mulia - [@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* Dara Mulia - [daramulia87@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.com/spik-bialtaakid/spikproject)
 
