@@ -97,6 +97,8 @@
 * [Google Cloud Platform Services](https://cloud.google.com/gcp)
 * [Kotlin Programming Language](https://kotlinlang.org/)
 * [Roboflow](https://roboflow.com/)
+* [TF Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+* [TF Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 
 
 
