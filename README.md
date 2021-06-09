@@ -176,7 +176,7 @@ Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.co
 * _PLEASE REFERS TO THIS REPOSITORY FOR USAGE & PUBLICATION._  
 
 * _THERE IS NO WARRANTY IN THIS SOFTWARE._
-* _THE OBJECT DETECTION API REFER TO THIS [LINK](https://arxiv.org/abs/1611.10012)._
+* _THE OBJECT DETECTION API REFER TO THIS [PAPER](https://arxiv.org/abs/1611.10012)._
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
