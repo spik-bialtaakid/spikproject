@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/SignUp"
+    android:background="@color/brown_50"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.homelogin.auth.signup.SignUpFragment">
+
+    <ImageView
+        android:id="@+id/btnBackSignUp"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="18dp"
+        android:src="@drawable/arowback"
+        app:layout_constraintBottom_toTopOf="@+id/imageView4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="22dp"
+        android:text="Daftar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/btnBackSignUp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivAvatarSingUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.103" />
+
+    <TextView
+        android:id="@+id/tvNameFull"
+        style="@style/TextView.Comfortaa16Grey_900"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="2dp"
+        android:text="Nama Lengkap"
+        app:layout_constraintBottom_toTopOf="@+id/etFullNameSignUp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/etFullNameSignUp"
+        style="@style/EditText.Comfortaa14Blue_grey_300"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/shape_rectangle_outline_8_020202"
+        android:hint="Masukkan nama lengkap"
+        android:padding="10dp"
+        android:textColor="@color/grey_900"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivAvatarSingUp" />
+
+    <TextView
+        android:id="@+id/tvEmailSignUp"
+        style="@style/TextView.Comfortaa16Grey_900"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:text="Email"
+        app:layout_constraintBottom_toTopOf="@+id/etEmailSignUp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/etEmailSignUp"
+        style="@style/EditText.Comfortaa14Blue_grey_300"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="54dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/shape_rectangle_outline_8_020202"
+        android:hint="Masukkan email"
+        android:padding="10dp"
+        android:textColor="@color/grey_900"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etFullNameSignUp" />
+
+
+    <TextView
+        android:id="@+id/textView11"
+        style="@style/TextView.Comfortaa16Grey_900"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:text="Kata Sandi"
+        app:layout_constraintBottom_toTopOf="@+id/etPasswordSignUp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/etPasswordSignUp"
+        style="@style/EditText.Comfortaa14Blue_grey_300"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="54dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/shape_rectangle_outline_8_020202"
+        android:hint="Masukkan kata sandi"
+        android:inputType="textPassword"
+        android:focusableInTouchMode="true"
+        android:focusable="true"
+        app:passwordToggleEnabled = "true"
+        app:errorEnabled="true"
+        android:padding="10dp"
+        android:textColor="@color/grey_900"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etEmailSignUp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        style="@style/TextView.Comfortaa16Grey_900"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:text="Konfirmasi Kata Sandi"
+        app:layout_constraintBottom_toTopOf="@+id/etConfirmPasswordSignUp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <EditText
+        android:id="@+id/etConfirmPasswordSignUp"
+        style="@style/EditText.Comfortaa14Blue_grey_300"
+        android:layout_width="0dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="54dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/shape_rectangle_outline_8_020202"
+        android:hint="Masukkan kata sandi anda"
+        android:focusableInTouchMode="true"
+        android:focusable="true"
+        app:passwordToggleEnabled = "true"
+        app:errorEnabled="true"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textColor="@color/grey_900"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etPasswordSignUp" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="278dp"
+        android:layout_height="48dp"
+        style="@style/Button.Primary14"
+        android:textAllCaps="false"
+        android:text="Daftar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etConfirmPasswordSignUp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

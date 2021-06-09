@@ -1,0 +1,102 @@
+<resources >
+    <!-- Base application theme. -->
+       <style name="AppTheme.ObjectDetection" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/tfe_color_primary</item>
+        <item name="colorPrimaryDark">@color/tfe_color_primary_dark</item>
+        <item name="colorAccent">@color/tfe_color_accent</item>
+    </style>
+
+    <!--    Tanpa ada ActionBar  -->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+
+    <!-- Style TextView -->
+    <style name="TextView"/>
+
+    <style name="TextView.Comfortaa24Black">
+        <item name="fontFamily">@font/comfortaa</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="TextView.Comfortaa36Black">
+        <item name="fontFamily">@font/comfortaa</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <style name="TextView.Poppins14Blue_grey_200">
+        <item name="fontFamily">@font/poppins_light</item>
+        <item name="android:textColor">@color/blue_grey_200</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextView.Comfortaa16Grey_900">
+        <item name="fontFamily">@font/comfortaa</item>
+        <item name="android:textColor">@color/grey_900</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextView.ComfortaaBold14Grey_900">
+        <item name="fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textColor">@color/grey_900</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextView.Comfortaa14Grey_900">
+        <item name="fontFamily">@font/comfortaa</item>
+        <item name="android:textColor">@color/grey_900</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextView.Comfortaa16Blue_grey_300">
+        <item name="fontFamily">@font/comfortaa</item>
+        <item name="android:textColor">@color/blue_grey_300</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextView.Comfortaa18Green_300">
+        <item name="fontFamily">@font/comfortaa</item>
+        <item name="android:textColor">@color/green_300</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!--    Style untuk Button  -->
+    <style name="Button"/>
+
+    <style name="Button.Primary14">
+        <item name="fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@drawable/shape_rectangle_8_fff</item>
+    </style>
+
+    <style name="Button.Primary14Google">
+        <item name="fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="drawableLeftCompat">@drawable/logogoogle</item>
+        <item name="paddingStart">10dp</item>
+        <item name="android:background">@drawable/shape_rectangle_8_fff</item>
+    </style>
+
+    <style name="Button.Black14">
+        <item name="fontFamily">@font/comfortaa_bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@drawable/shape_rectangle_8_000</item>
+    </style>
+
+    <!--    Style untuk EditText  -->
+    <style name="EditText"/>
+
+    <style name="EditText.Comfortaa14Blue_grey_300">
+        <item name="fontFamily">@font/comfortaa</item>
+        <item name="android:textColor">@color/blue_grey_300</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.irfan.spikapps">
+
+    <uses-sdk />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.camera" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:usesCleartextTraffic="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".ui.homeall.profile.sk.SKActivity" />
+        <activity android:name=".ui.homeall.profile.kp.KPActivity" />
+        <activity android:name=".ui.homeall.profile.info.InfoActivity" />
+        <activity
+            android:name=".ui.HomeAllActivity"
+            android:label="@string/title_activity_home_all" />
+        <activity android:name=".ui.homelogin.HomeLoginActivity" />
+        <activity android:name=".ui.splashscreen.SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.homeall.home.tflite.DetectorActivity"
+            android:label="@string/tfe_od_app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.ObjectDetection"
+            />
+        <activity android:name=".ui.homeall.home.tflite.CameraActivity" />
+        <activity android:name=".ui.homeall.home.KamusActivity" />
+
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

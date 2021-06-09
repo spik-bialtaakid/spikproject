@@ -1,0 +1,4 @@
+include ':lib_interpreter'
+include ':lib_task_api'
+include ':app'
+rootProject.name = "Spik Apps"

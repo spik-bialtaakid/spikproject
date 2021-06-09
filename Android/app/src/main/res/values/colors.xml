@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown_50">#F4EEE8</color>
+    <color name="blue_grey_200">#ACB3BF</color>
+    <color name="blue_grey_300">#8D92A3</color>
+    <color name="grey_900">#202020</color>
+    <color name="green_300">#6FCF97</color>
+    <color name="tfe_color_primary">#ffa800</color>
+    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_color_accent">#425066</color>
+    <color name="tfe_semi_transparent">#66000000</color>
+</resources>

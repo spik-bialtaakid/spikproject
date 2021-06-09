@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Spik Apps</string>
+    <string name="spik">spik</string>
+    <string name="title_activity_home_all">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Profile</string>
+    <string name="title">INFORMASI</string>
+    <string name="subtitle">Dafar kursus Bahasa Isyarat Indonesia (BISINDO) di Jabodetabek</string>
+    <string name="description">Pusat Layanan Juru Bahasa Isyarat (PLJ)</string>
+    <string name="lokasi">Lokasi </string>
+    <string name="lokasidetail">    : Komplek Paminda Jalan Bambu\nAmpel II Blok C No. 11, Pasar Minggu\nJakarta Selatan 12520</string>
+    <string name="email">Email </string>
+    <string name="emaildetail">     : info@plj.or.id</string>
+    <string name="website">Website</string>
+    <string name="websiteldetail">  : http://www.plj.web.id/</string>
+    <string name="telepon">Telepon</string>
+    <string name="telepondetail">   : 021-7801603 / 081288002015 </string>
+    <string name="description2">Lembaga Bahasa Internasional Universitas Indonesia (LBI FBUI)</string>
+    <string name="lokasi2">Lokasi</string>
+    <string name="email2">Email</string>
+    <string name="website2">Website</string>
+    <string name="telepon2">Telepon</string>
+    <string name="lokasidetail2">   : Fakultas Ilmu Pengetahuan Budaya,\n Gedung 10 Lantai 1</string>
+    <string name="emaildetail2">    : info.lbifibui@gmail.com</string>
+    <string name="websiteldetail2"> : http://lbifib.ui.ac.id</string>
+    <string name="telepondetail2">  : 021-31930335, 31902112</string>
+    <string name="title2">KEBIJAKAN PRIVASI</string>
+    <string name="des1">Dengan mengakses dan/atau menggunakan Aplikasi, Anda memahami dan setuju untuk tunduk terhadap Kebijakan Privasi ini. Mohon untuk membaca Kebijakan Privasi ini dengan seksama dan secara menyeluruh. Dalam hal Anda tidak setuju dengan Kebijakan Privasi ini, Anda berhak untuk tidak mengakses dan/atau tidak menggunakan Aplikasi.</string>
+    <string name="definisi">DEFINISI</string>
+    <string name="des2">Istilah-istilah yang digunakan dalam Syarat dan Ketentuan ini mempunyai arti sebagai berikut:</string>
+    <string name="_1des">1. “Akun” berarti setiap akun atas nama Pengguna yang terdaftar pada Aplikasi.</string>
+    <string name="_2des">2. “Anda” atau “Pengguna” berarti setiap orang yang mengakses dan menggunakan serta telah terdaftar pada Aplikasi.</string>
+    <string name="_3des">3. “Syarat dan Ketentuan” berarti perjanjian antara Perusahaan dan Agen mengenai syarat dan ketentuan sehubungan dengan penggunaan Aplikasi.</string>
+    <string name="tujuan">TUJUAN</string>
+    <string name="des3">spik mengumpulkan Informasi Pribadi tertentu dari Anda agar Aplikasi dapat menjalankan fungsinya termasuk namun tidak terbatas dengan tujuan untuk menghubungi Anda tentang akun Anda dalam Aplikasi dan Layanan spik, memberikan Layanan kepada Anda, memberi Anda iklan dan pemasaran terkait Layanan spik, menjawab pertanyaan-pertanyaan dan/atau permintaan-permintaan yang Anda ajukan kepada spik, dan untuk mendeteksi, mencegah, mengurangi dan menyelidiki aktivitas curang atau ilegal.</string>
+    <string name="infoyang">INFORMASI YANG KAMI AKSES DAN KUMPULKAN</string>
+    <string name="_1info">1. spik menggunakan Informasi Pribadi untuk tujuan verifikasi kepemilikan Anda atas suatu akun dalam Aplikasi kami, untuk berkomunikasi dengan Anda sehubungan dengan pemrosesan, penggunaan atau pengelolaan Layanan dan Aplikasi dan untuk memberikan Anda informasi mengenai Aplikasi dan Layanan. Kami juga dapat menggunakan Informasi Pribadi untuk mengirimkan pesan, pembaharuan yang bersifat umum atas Aplikasi dan Layanan, penawaran-penawaran khusus atau promosi-promosi.</string>
+    <string name="_2info">2. spik menggunakan Informasi Pribadi secara keseluruhan untuk menganalisa pola penggunaan Anda atas Aplikasi. Anda dengan ini setuju bahwa Informasi Pribadi Anda akan digunakan oleh sistem pemrosesan data internal spik untuk memastikan diberikannya Layanan yang terbaik dalam Aplikasi untuk Anda.</string>
+    <string name="infootomatis">INFORMASI YANG SECARA OTOMATIS TERKUMPUL</string>
+    <string name="_1_info">1. Informasi Penggunaan dan Log: Kami mengumpulkan informasi terkait layanan, diagnostik, dan kinerja. Ini termasuk informasi tentang aktivitas Anda (seperti bagaimana Anda menggunakan layanan kami, berkas log, laporan diagnostik, data crash, serta laporan kinerja.</string>
+    <string name="_2_info">2. Cookie: Kami menggunakan cookie untuk beroperasi, termasuk untuk menyediakan layanan kami yang berbasis web. Kami juga menggunakannya untuk meningkatkan pengalaman Anda dengan memahami bagaimana layanan kami digunakan, dan menyesuaikan layanan kami agar sesuai dengan Anda. Kami dapat menggunakan cookie dan teknologi serupa di situs web kami untuk mengumpulkan informasi seperti tanggal dan waktu kunjungan, lokasi geografis, halaman yang dilihat, alamat IP, tautan ke atau dari halaman manapun, jenis dan versi browser, sistem operasi, sumber rujukan, dan waktu yang dihabiskan di situs web kami.</string>
+    <string name="berbagi">BERBAGI INFORMASI DENGAN PIHAK KETIGA\nspik membagikan data pribadi Anda hanya jika diperlukan untuk menawarkan layanan kepada Anda, jika diwajibkan secara hukum atau jika diiinkan oleh Anda.\nKami memberikan data pribadi ke penyedia cloud hosting, seperti Google, penyedia analitik, penyedia dukungan cusom, dan penyedia layanan lainnya.
+                             Perusahaan-perusahaan ini akan membantu kami menawarkan layanan yang lebih baik kepada Anda. Misalnya, kami dapat membagikan informasi Anda untuk menemukan di mana atau bagaimana Anda menemukan bug di aplikasi seluler kami. Dengan menghubungkan proses tersebut, penyedia kami memiliki akses ke data pribadi Anda selama waktu yang terbatas.</string>
+    <string name="kontak">KONTAK\nJika Anda memiliki pertanyaan lebih lanjut tentang privasi dan keamanan informasi Anda atau ingin memperbarui atau menghapus data Anda maka silakan hubungi kami di: help@spik.com</string>
+    <string name="title3">SYARAT &amp; KETENTUAN</string>
+    <string name="penting">PENTING: Anda dimohon untuk membaca Syarat dan Ketentuan Penggunaan (“Ketentuan Penggunaan”) ini dan Kebijakan Privasi kami dengan hati-hati dan seksama sebelum mengakses portal dan/atau aplikasi spik (“Aplikasi”) maupun menggunakan setiap fitur dan/atau layanan yang tersedia dalam Aplikasi.</string>
+    <string name="kentnumum">KETENTUAN UMUM</string>
+    <string name="_1_ketum">1. Dengan mengunduh, mengakses dan/atau menggunakan Aplikasi, anda setuju bahwa anda telah membaca, memahami, mengetahui, menyetujui, dan menerima seluruh informasi, syarat, dan ketentuan penggunaan Layanan yang terdapat dalam Ketentuan Penggunaan ini.</string>
+    <string name="_2_ketum">2. Ketentuan Penggunaan ini merupakan suatu perjanjian sah terkait tata cara dan persyaratan penggunaan Aplikasi antara Anda dengan pengelola Aplikasi atau Pihak spik.</string>
+    <string name="_3_ketum">3. Anda dapat menghapus Aplikasi dalam perangkat mobile anda, termasuk mengajukan permintaan penghapusan akun (apabila anda telah melakukan pendaftaran sebagai pengguna Aplikasi),  jika anda tidak setuju terhadap Ketentuan Penggunaan ini. Mohon diperhatikan bahwa penggunaan Aplikasi tunduk pada Ketentuan Penggunaan dan Kebijakan Privasi yang Kami keluarkan dan/atau perbaharui dari waktu ke waktu.</string>
+    <string name="ketnpengu">KETENTUAN PENGGUNAAN APLIKASI</string>
+    <string name="_1_ketung">1. Koneksi internet diperlukan untuk dapat menggunakan Layanan. Segala biaya yang timbul atas koneksi perangkat elektronik Anda dengan jaringan internet merupakan tanggung jawab Anda sepenuhnya.</string>
+    <string name="_2_ketung">2. Aplikasi ini merupakan aplikasi perangkat lunak yang berfungsi sebagai sarana untuk menerjemahkan bahasa isyarat menjadi suara atau tulisan.</string>
+    <string name="_3_ketung">3. Anda dapat menggunakan Aplikasi dengan terlebih dahulu melakukan pendaftaran yang disertai pemberian informasi sebagaimana diminta dalam Aplikasi.</string>
+    <string name="_4_ketung">4. Kami berhak untuk sewaktu-waktu mengubah, menghapus, dan/atau menerapkan syarat dan ketentuan baru dalam Ketentuan Penggunaan ini. Perubahan terhadap Ketentuan Penggunaan akan segera berlaku efektif dan akan diberitahukan kepada Anda pada saat Anda mengakses Aplikasi atau Web App pertama kalinya setelah perubahan tersebut efektif. Pemakaian Anda yang berkelanjutan terhadap Aplikasi atau Web App akan dianggap sebagai persetujuan untuk tunduk kepada perubahan atas syarat dan ketentuan dari Ketentuan Penggunaan ini.</string>
+    <string name="_5_ketung">5. Kami berhak sewaktu-waktu mengubah, menghapus, mengurangi, menambah dan/atau memperbarui fitur atau fasilitas dalam Aplikasi atau Web App . Pemakaian Anda yang berkelanjutan terhadap Aplikasi atau Web App akan dianggap sebagai persetujuan kepada perubahan, penghapusan, pengurangan, penambahan dan/atau pembaruan fitur atau fasilitas Aplikasi.</string>
+    <string name="fiturapk">FITUR APLIKASI</string>
+    <string name="_1_apk">1. Aplikasi spik adalah aplikasi terjemahan Bahasa Isyarat Indonesia secara online dan gratis.</string>
+    <string name="_2_apk">2. Aplikasi spik menggunakan layanan Google Speech sebagai penghasil suara dan mematuhi Persyaratan Layanan Platform</string>
+    <string name="_3_apk">3. Aplikasi spik memiki fitur real-time detection yang dapat mendeteksi bahasa isyarat melalui kamera, dan akan diubah menjadi teks atau suara.</string>
+    <string name="ketunak">KETENTUAN AKHIR</string>
+    <string name="ketunakhir">Persyaratan ini diatur oleh hukum Negara Kesatuan Republik Indonesia, dan setiap gugatan atau proses hukum yang berkaitan dengan aplikasi ini akan diatur olehnya. Untuk setiap kontroversi atau keluhan yang ditimbulkan dari penggunaan aplikasi spik.</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">TFL Detect</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="des">SIBI merupakan bahasa isyarat yang diadopsi dari American Sign Language (ASL). Bahasa isyarat yang satu ini juga biasa dipakai di Sekolah Luar Biasa (SLB) untuk berkomunikasi antara guru dan siswa maupun antar siswa.</string>
+    <string name="sibi">Sistem Bahasa Isyarat Indonesia (SIBI)</string>
+</resources>
