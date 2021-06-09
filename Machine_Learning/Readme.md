@@ -32,6 +32,8 @@ So the model we build basically is an pretrained model that provide by [Tensorfl
         <li><a href="#prerequisites">Set up model</a></li>
         <li><a href="#installation">Pipeline config</a></li>
         <li><a href="#installation">start training</a></li>
+        <li><a href="#installation">export</a></li>
+        <li><a href="#installation">deploy</a></li>
       </ul>
     </li>
   </ol>
@@ -250,3 +252,27 @@ python /Tensorflow/models/research/object_detection/model_main_tf2.py \
     --sample_1_of_n_eval_examples=1 \
     --num_eval_steps={num_eval_steps}
   ```
+
+### export
+The Tf Objcet detection API also provide the script to freez the graph, then export it. here i will show you what i mean.
+
+```sh
+python /Tensorflow/models/research/object_detection/exporter_main_v2.py \
+    --trained_checkpoint_dir {the dir of your model checkpoint} \
+    --output_directory {the dir where you want to export} \
+    --pipeline_config_path {the dir of your pipeline}
+```
+The run the following command
+
+```sh
+python /Tensorflow/models/research/object_detection/exporter_main_v2.py \
+    --pipeline_config_path {the dir of your pipeline} \
+    --trained_checkpoint_dir {the dir of your model checkpoint} \
+    --output_directory {the dir where you want to export}
+```
+then you will get the mode.pb in your corresponding folder.
+
+### deploy
+
+To get the tflite version of your model you can run this [script](https://github.com/spik-bialtaakid/spikproject/blob/main/Machine_Learning/scripts/convert_to_tflite.py). But firstly install the tflite-support using pip.
+And follow along the promt.
