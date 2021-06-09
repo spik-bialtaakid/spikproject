@@ -1,27 +1,8 @@
 # Model developing stage
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
 
+This directory contains all the requires tools, scripts, packages, ect in order to build the object detection model.
+So the model we build basically is an pretrained model that provide by [Tensorflow 2 detection model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) and to do transer learning we need to use a framework which called [TF object detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/README.md). Its had all the tool we need from the object-detection library until di script that could help us to extracting the graph model then create the tflite version of the model. To get your model work to please follow this step below.
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-URL, forks-URL, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
- 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -43,7 +24,7 @@
         <li><a href="#preproc">Preprocessing</a></li>
         <li><a href="#install">Labelling</a></li>
         <li><a href="#tfrec">Create TF record</a></li>
-        
+
       </ul>
     </li>
     <li>
@@ -52,7 +33,7 @@
         <li><a href="#prerequisites">Set up model</a></li>
         <li><a href="#installation">Pipeline config</a></li>
         <li><a href="#installation">start training</a></li>
-        
+
       </ul>
     </li>
   </ol>
@@ -68,12 +49,3 @@
 ### Anaconda (Optional)
 
 Firstly you need to download anaconda from this [link](
-
-
-
-
-
-
-
-
-
