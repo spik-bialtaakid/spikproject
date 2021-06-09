@@ -71,7 +71,7 @@ Using a GPU to run TensorFlow is not necessary, but its give better peformance. 
 ### Object detection library
 Maybe you can install the object detection from pip its not recommended because there a huge gap beetwen the pip version which the TF object detection API used.
 
-first thing you need to Set up the path tree like this.
+first thing you need to create the root folder. Then download or clone the [TF objet detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/README.md). After that you will have your path tree like this.
 
 ```sh
 TensorFlow/
@@ -81,4 +81,70 @@ TensorFlow/
    ├─ orbit/
    ├─ research/
    └── ...
+```
+Then download the [protoc](https://github.com/protocolbuffers/protobuf/releases) and set up if you haven't yet. Once your protoc ready, run this command from your root path.
+
+```sh
+protoc TensorFlow/models/research/object_detection/protos/*.proto --python_out=.
+```
+
+Then you need a COCO API and its quite simple to do you just need to run those two command.
+
+```sh
+pip install cython
+pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+```
+
+Finally we came to install our object-detection API, lets to this command.
+
+```sh
+cp Tensorflow/models/research/object_detection/packages/tf2/setup.py .
+python -m pip install --use-feature=2020-resolver .
+```
+
+Lets test your object-detection api
+
+```sh
+python object_detection/builders/model_builder_tf2_test.py
+```
+
+its should return result like This
+
+```sh
+...
+[       OK ] ModelBuilderTF2Test.test_create_ssd_models_from_config
+[ RUN      ] ModelBuilderTF2Test.test_invalid_faster_rcnn_batchnorm_update
+INFO:tensorflow:time(__main__.ModelBuilderTF2Test.test_invalid_faster_rcnn_batchnorm_update): 0.0s
+I0608 18:49:13.183754 29296 test_util.py:2102] time(__main__.ModelBuilderTF2Test.test_invalid_faster_rcnn_batchnorm_update): 0.0s
+[       OK ] ModelBuilderTF2Test.test_invalid_faster_rcnn_batchnorm_update
+[ RUN      ] ModelBuilderTF2Test.test_invalid_first_stage_nms_iou_threshold
+INFO:tensorflow:time(__main__.ModelBuilderTF2Test.test_invalid_first_stage_nms_iou_threshold): 0.0s
+I0608 18:49:13.186750 29296 test_util.py:2102] time(__main__.ModelBuilderTF2Test.test_invalid_first_stage_nms_iou_threshold): 0.0s
+[       OK ] ModelBuilderTF2Test.test_invalid_first_stage_nms_iou_threshold
+[ RUN      ] ModelBuilderTF2Test.test_invalid_model_config_proto
+INFO:tensorflow:time(__main__.ModelBuilderTF2Test.test_invalid_model_config_proto): 0.0s
+I0608 18:49:13.188250 29296 test_util.py:2102] time(__main__.ModelBuilderTF2Test.test_invalid_model_config_proto): 0.0s
+[       OK ] ModelBuilderTF2Test.test_invalid_model_config_proto
+[ RUN      ] ModelBuilderTF2Test.test_invalid_second_stage_batch_size
+INFO:tensorflow:time(__main__.ModelBuilderTF2Test.test_invalid_second_stage_batch_size): 0.0s
+I0608 18:49:13.190746 29296 test_util.py:2102] time(__main__.ModelBuilderTF2Test.test_invalid_second_stage_batch_size): 0.0s
+[       OK ] ModelBuilderTF2Test.test_invalid_second_stage_batch_size
+[ RUN      ] ModelBuilderTF2Test.test_session
+[  SKIPPED ] ModelBuilderTF2Test.test_session
+[ RUN      ] ModelBuilderTF2Test.test_unknown_faster_rcnn_feature_extractor
+INFO:tensorflow:time(__main__.ModelBuilderTF2Test.test_unknown_faster_rcnn_feature_extractor): 0.0s
+I0608 18:49:13.193742 29296 test_util.py:2102] time(__main__.ModelBuilderTF2Test.test_unknown_faster_rcnn_feature_extractor): 0.0s
+[       OK ] ModelBuilderTF2Test.test_unknown_faster_rcnn_feature_extractor
+[ RUN      ] ModelBuilderTF2Test.test_unknown_meta_architecture
+INFO:tensorflow:time(__main__.ModelBuilderTF2Test.test_unknown_meta_architecture): 0.0s
+I0608 18:49:13.195241 29296 test_util.py:2102] time(__main__.ModelBuilderTF2Test.test_unknown_meta_architecture): 0.0s
+[       OK ] ModelBuilderTF2Test.test_unknown_meta_architecture
+[ RUN      ] ModelBuilderTF2Test.test_unknown_ssd_feature_extractor
+INFO:tensorflow:time(__main__.ModelBuilderTF2Test.test_unknown_ssd_feature_extractor): 0.0s
+I0608 18:49:13.197239 29296 test_util.py:2102] time(__main__.ModelBuilderTF2Test.test_unknown_ssd_feature_extractor): 0.0s
+[       OK ] ModelBuilderTF2Test.test_unknown_ssd_feature_extractor
+----------------------------------------------------------------------
+Ran 24 tests in 29.980s
+
+OK (skipped=1)
 ```
