@@ -148,3 +148,33 @@ Ran 24 tests in 29.980s
 
 OK (skipped=1)
 ```
+
+## Dataset
+You can get our dataset from this [link](https://www.kaggle.com/ridhomuhammad/sibi-language-object-detection), and the tfrecord are [there](https://app.roboflow.com/ds/6LLb0DMJ0O?key=Yl3Nl86oBD). But if you want to know how generate your own dataset you can follow this step below.
+
+### Preprocessing
+This directory contain all the script needed to do the preprocessing. So to get your dataset compatible with the ssd mobilnet, firstly you need to create the root path of your dataset. then create the folder that its name refer to your object that being detect (e. g Human -> dataset/Human), the store the image you have corresponding to each object folder. Once ready run this [script](https://github.com/spik-bialtaakid/spikproject/blob/main/Machine_Learning/scripts/reducing_size.py).
+
+```sh
+(tensor-env) ..\Machine_Learning\scripts\ > python reducing_size.py -i D:\Dataset\Human -n 3
+```
+
+the -i mean where your image located than the -n mean how many time you want it to reduce. Repeate this process to every object folder within your dataset directory. After that you can start using this [script](https://github.com/spik-bialtaakid/spikproject/blob/main/Machine_Learning/scripts/preprocessing.py) to do preprocessing.
+
+In order to avoid any collusion or error please follow this step.
+
+```sh
+(tensor-env) ..\Machine_Learning\scripts\ > python preprocessing.py
+
+(tensor-env) ..\Machine_Learning\scripts\ >
+root_path :
+--------------------
+select task above :
+1. rename images name based on alphabet dir
+2. check the sum of images contain in each alphabet dir
+3. equalize the sum of all images set
+4. delete alphabet folder an put all into root folder
+your selection :
+
+```
+So you just need to pass the root folder path, then there 4 things you can do. as mention above, consider to do the step above sequential not arbitrary
