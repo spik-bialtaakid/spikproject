@@ -97,7 +97,7 @@
 * [Google Cloud Platform Services](https://cloud.google.com/gcp)
 * [Kotlin Programming Language](https://kotlinlang.org/)
 * [Roboflow](https://roboflow.com/)
-* [YOLO-V4 Model Based Architecture](https://github.com/AlexeyAB/darknet)
+
 
 
 <!-- GETTING STARTED -->
