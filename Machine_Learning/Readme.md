@@ -8,6 +8,7 @@ So the model we build basically is an pretrained model that provide by [Tensorfl
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
+
     <li>
       <a href="#inst">installation</a>
       <ul>
@@ -18,25 +19,27 @@ So the model we build basically is an pretrained model that provide by [Tensorfl
         <li><a href="#test">Testing</a></li>
       </ul>
     </li>
+
     <li>
       <a href="#set">Dataset</a>
       <ul>
         <li><a href="#preproc">Preprocessing</a></li>
         <li><a href="#install">Labelling</a></li>
         <li><a href="#tfrec">Create TF record</a></li>
-
       </ul>
     </li>
+
     <li>
       <a href="#train">Training</a>
       <ul>
-        <li><a href="#prerequisites">Set up model</a></li>
-        <li><a href="#installation">Pipeline config</a></li>
-        <li><a href="#installation">start training</a></li>
-
+        <li><a href="#cfg">Model Config</a></li>
+        <li><a href="#trainn">Training</a></li>
+        <li><a href="#last">Create TF record</a></li>
       </ul>
     </li>
+
   </ol>
+  
 </details>
 
 
