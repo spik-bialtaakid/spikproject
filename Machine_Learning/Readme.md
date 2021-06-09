@@ -179,6 +179,74 @@ select task above :
 your selection :
 ```
 
-So you just need to pass the root folder path, then there 4 things you can do. as mention above, consider to do the step above sequential not arbitrary
+So you just need to pass the root folder path, then there 4 things you can do. as mention above, consider to do the step above sequential not arbitrary.
 
-Once its ready you can upload your dataset into roboflow and do the rest step by following this documentation
+### Labelling
+Once its ready you can upload your dataset into roboflow and do the rest step by following this [documentation](https://blog.roboflow.com/labeling/) to create the annotations or Labelling.
+
+### TFrecord
+To get the Tf record you can follow this [link](https://roboflow.com/convert/yolo-darknet-txt-to-tensorflow-tfrecord).
+
+
+## Training
+Firstly download the model you want from this [repository](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+Once every thing is ready consider to manage your directory so it will look like this.
+
+```sh
+TensorFlow/
+└─ models/
+   ├─ community/
+   ├─ official/
+   ├─ orbit/
+   ├─ research/
+   └── ...
+└─ workspace/
+  ├─ roboflow/
+    ├─ train/
+    ├─ test/
+    ├─ valid/
+  ├─ output/
+  ├─ pre-trained/
+    ├─ your_downloaded_model/
+  ├─ models/
+  ├─ exported_models/
+```
+Then download the config that you could found at this [link](https://raw.githubusercontent.com/tensorflow/models/master/research/object_detection/configs/tf2/)
+
+## Model Config
+for the model config there are several item you need to change. which are :
+1. num_classes: 27 # Set this to the number of different label classes
+
+2. batch_size: 8 # Increase/Decrease this value depending on the available memory (Higher values require more memory and vice-versa)
+
+3. fine_tune_checkpoint: "pre-trained-models/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8/checkpoint/ckpt-0" # Path to checkpoint of pre-trained model
+
+4. fine_tune_checkpoint_type: "detection" # Set this to "detection" since we want to be training the full detection model
+
+5. use_bfloat16: false # Set this to false if you are not training on a TPU
+
+6. label_map_path: "annotations/label_map.pbtxt" # Path to label map file
+
+7. input_path: "annotations/train.tfrecord" # Path to training TFRecord file
+
+8. metrics_set: "coco_detection_metrics"
+
+9. use_moving_averages: false
+
+10. label_map_path: "annotations/label_map.pbtxt" # Path to label map file
+
+11. input_path: "annotations/test.record" # Path to testing TFRecord
+
+
+### training
+for training Tf Object detection API has provide the script for you. so you just need to run this.
+
+```sh
+python /Tensorflow/models/research/object_detection/model_main_tf2.py \
+    --pipeline_config_path={where you put the config that have been edited} \
+    --model_dir={the output dir} \
+    --alsologtostderr \
+    --num_train_steps={num_steps} \
+    --sample_1_of_n_eval_examples=1 \
+    --num_eval_steps={num_eval_steps}
+  ```
