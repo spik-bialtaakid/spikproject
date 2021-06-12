@@ -172,13 +172,12 @@ Project Link: [https://github.com/spik-bialtaakid/spikproject](https://github.co
 ## Acknowledgements
 
 * _ALL LICENSE ARE FREE TO USE SOFTWARE._  
-
-* _CREDIT FOR THIS PROJECT ARE HAVING BY GEN-Z TEAM._  
+  
 
 * _PLEASE REFERS TO THIS REPOSITORY FOR USAGE & PUBLICATION._  
 
 * _THERE IS NO WARRANTY IN THIS SOFTWARE._
-* _THE OBJECT DETECTION API REFER TO THIS [PAPER](https://arxiv.org/abs/1611.10012)._
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
